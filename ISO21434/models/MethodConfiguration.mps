@@ -6389,7 +6389,37 @@
         </node>
       </node>
     </node>
-    <node concept="$sJSh" id="7Nv$T7rOeq5" role="$s4ey" />
+    <node concept="$sJSh" id="7Nv$T7rOh_o" role="$s4ey" />
+    <node concept="39leHu" id="7Nv$T7rOe$E" role="$s4ey">
+      <property role="TrG5h" value="Product Composition" />
+      <node concept="2mR0d" id="7Nv$T7rOe$F" role="2mR6f">
+        <node concept="2mR0e" id="7Nv$T7rOe$H" role="2mR6i">
+          <node concept="38D_9Z" id="7Nv$T7rOeA1" role="2hY46">
+            <node concept="3VMn$a" id="7Nv$T7rOeA2" role="38D_my" />
+          </node>
+        </node>
+        <node concept="2mR0e" id="7Nv$T7rOe_H" role="2mR6i">
+          <node concept="38D_9Z" id="7Nv$T7rOeAm" role="2hY46">
+            <node concept="3VMn$a" id="7Nv$T7rOeAn" role="38D_my" />
+          </node>
+        </node>
+        <node concept="2mR0e" id="7Nv$T7rOe_Q" role="2mR6i">
+          <node concept="38D_9Z" id="7Nv$T7rOeEB" role="2hY46">
+            <node concept="3VMn$a" id="7Nv$T7rOeEC" role="38D_my" />
+          </node>
+        </node>
+      </node>
+      <node concept="2ozQQ" id="7Nv$T7rOe$G" role="2hO6J">
+        <property role="TrG5h" value="Device Name" />
+      </node>
+      <node concept="2ozQQ" id="7Nv$T7rOe_G" role="2hO6J">
+        <property role="TrG5h" value="Description" />
+      </node>
+      <node concept="2ozQQ" id="7Nv$T7rOe_P" role="2hO6J">
+        <property role="TrG5h" value="Key Points" />
+      </node>
+    </node>
+    <node concept="$sJSh" id="7Nv$T7rOeva" role="$s4ey" />
   </node>
 </model>
 
