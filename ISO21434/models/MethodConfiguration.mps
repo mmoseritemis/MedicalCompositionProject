@@ -6420,6 +6420,31 @@
       </node>
     </node>
     <node concept="$sJSh" id="7Nv$T7rOeva" role="$s4ey" />
+    <node concept="$sJSp" id="3fGWzGiU7GP" role="$s4ey">
+      <property role="TrG5h" value="Core Use Case" />
+      <node concept="38D_9Z" id="3fGWzGiU7GQ" role="X3RNv">
+        <node concept="3VMn$a" id="3fGWzGiU7GR" role="38D_my">
+          <node concept="3VMn$0" id="3fGWzGiU7GS" role="3VMn$6">
+            <node concept="3VMn$7" id="3fGWzGiU7GT" role="3VMn$3">
+              <property role="3VMn$Y" value=" " />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node concept="$sJSh" id="3fGWzGiU8ec" role="$s4ey" />
+    <node concept="$sJSp" id="3fGWzGiU8g_" role="$s4ey">
+      <property role="TrG5h" value="Patient Safety Considerations" />
+      <node concept="38D_9Z" id="3fGWzGiU8gA" role="X3RNv">
+        <node concept="3VMn$a" id="3fGWzGiU8gB" role="38D_my">
+          <node concept="3VMn$0" id="3fGWzGiU8gC" role="3VMn$6">
+            <node concept="3VMn$7" id="3fGWzGiU8gD" role="3VMn$3">
+              <property role="3VMn$Y" value=" " />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
   </node>
 </model>
 
